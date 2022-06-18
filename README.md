@@ -1,2 +1,2 @@
-# devopsbatch2022
+# devopsBatch2022
 #Update
